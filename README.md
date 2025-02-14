@@ -1,6 +1,6 @@
 # Hi, I'm Kai 👋
 
-Welcome to my GitHub profile! I'm passionate about technology, coding, and continuous learning. Here you'll find a collection of my projects, contributions, and interests.
+Welcome to my GitHub profile! Feel free to check out my public repositories/projects!
 
 ## 🚀 About Me
 
@@ -42,5 +42,3 @@ Here are my skills in order of my level (left = fluent, right = barely used)
 ## 🏆 Achievements
 
 - **Mentor** for aspiring computer science students.
-
-Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate or chat about tech. Happy coding! 😄
