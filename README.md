@@ -1,4 +1,4 @@
-# Hi there, I'm Kai 👋
+# Hi, I'm Kai 👋
 
 Welcome to my GitHub profile! I'm passionate about technology, coding, and continuous learning. Here you'll find a collection of my projects, contributions, and interests.
 
