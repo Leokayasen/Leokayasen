@@ -10,11 +10,19 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and conti
 - 💬 Ask me about anything related to programming, especially Python, Java, and web development.
 - 😄 Pronouns: He/Him
 
-## 🛠️ Languages and Tools
+## 🛠️ Skills
+Here are my skills in order of my level (left = fluent, right = barely used)
 
-- **Languages**: Python, Java, Lua, HTML/CSS (web development), JavaScript 
-- **Frameworks**: Node.JS, Three.JS & Custom Frameworks (unreleased)
-- **Tools**: IntelliJ Ultimate, PyCharm Professional, VSCode
+- **Frameworks**\
+[![My Frameworks](https://skillicons.dev/icons?i=maven,gradle,npm,nodejs,discordjs&theme=dark)](https://skillicons.dev)
+- **Tools**\
+[![My Tools](https://skillicons.dev/icons?i=idea,replit,pycharm,vscode,mongodb,mysql,phpstorm&theme=dark)](https://skillicons.dev)
+- **Languages**\
+[![My Skills](https://skillicons.dev/icons?i=py,java,lua,html,css,js,md,ruby&theme=dark)](https://skillicons.dev)
+
+- **Other Tools**\
+[![My Skills](https://skillicons.dev/icons?i=robloxstudio,blender,godot,&theme=dark)](https://skillicons.dev)
+
 
 ## 📈 GitHub Stats
 
