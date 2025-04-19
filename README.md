@@ -30,7 +30,6 @@ Here are my skills in order of my level (left = fluent, right = barely used)
 
 ## 📫 How to Reach Me
 
-- **Email**: [kaiyamleo@gmail.com](mailto:kaiyamleo@gmail.com)
 - **Bluesky**: [@leokayasen](https://bsky.app/profile/leokayasen.bsky.social)
 
 ## 📝 Latest Blog Posts
