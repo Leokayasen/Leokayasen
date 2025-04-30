@@ -40,4 +40,4 @@ Here are my skills in order of my level (left = fluent, right = barely used)
 
 ## 🏆 Achievements
 
-- **Mentor** for aspiring computer science students.
+- **Mentor** for aspiring computer science students in sixth forms.
