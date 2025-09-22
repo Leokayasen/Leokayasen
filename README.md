@@ -13,12 +13,12 @@ Welcome to my GitHub profile! Feel free to check out my public repositories/proj
 ## 🛠️ Skills
 Here are my skills in order of my level (left = fluent, right = barely used)
 
-- **Frameworks**\
+- **Frameworks I use**\
 [![My Frameworks](https://skillicons.dev/icons?i=maven,gradle,npm,nodejs,discordjs&theme=dark)](https://skillicons.dev)
-- **Tools**\
+- **Tools I use**\
 [![My Tools](https://skillicons.dev/icons?i=idea,replit,pycharm,vscode,mongodb,mysql,phpstorm&theme=dark)](https://skillicons.dev)
-- **Languages**\
-[![My Skills](https://skillicons.dev/icons?i=py,java,lua,html,css,js,md,ruby&theme=dark)](https://skillicons.dev)
+- **Languages I use**\
+[![My Skills](https://skillicons.dev/icons?i=py,java,lua,html,css,js,ts,md,ruby&theme=dark)](https://skillicons.dev)
 
 - **Other Tools**\
 [![My Skills](https://skillicons.dev/icons?i=robloxstudio,blender,godot,&theme=dark)](https://skillicons.dev)
