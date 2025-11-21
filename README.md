@@ -1,37 +1,55 @@
 # Hi, I'm Kai 👋
 
-Welcome to my GitHub profile! Feel free to check out my public repositories/projects!
+I'm a Java and Web developer who builds reliable, maintainable, and user-friendly applications. I enjoy solving problems, learning new technologies, and contributing to open source.
 
-## 🚀 About Me
+- - -
 
-- 🔭 Current projects include... StackSpace, BrightOnLib (for Haskell), VoxelEngine, DeceitMC (Java MC Mod/Plugin) and more!
-- 👯 I’m looking to collaborate on innovative and impactful projects.
-- 💬 Ask me about anything related to programming, especially Python, Java, and web development.
-- 😄 Pronouns: He/Him
+## 🔭 About Me
+- Role: Java / Web Dev (aspiring to be full-stack software dev someday!)
+- Focus: Building scalable web apps, APIs, and developer tools
+- Location: United Kingdom
+- Fun fact: I love turning ideas into small, useful projects - and open sourcing them!
 
-## 🛠️ Skills
-Here are my skills in order of my level (left = fluent, right = barely used)
+- - -
 
-- **Frameworks**\
-[![My Frameworks](https://skillicons.dev/icons?i=maven,gradle,npm,nodejs,discordjs,cloudflare&theme=dark)](https://skillicons.dev)
+## 🚀 Currently
+- Working on:
+  - [Foodie - Android Recipe App](https://github.com/Leokayasen/appTest)
+  - [StackSpace/Lattice - Developer-focused social platform](https://github.com/Leokayasen/Lattice)
+  - [MineMap - Browser-based Dynamic World Map for Paper Minecraft](https://github.com/Leokayasen/MineMap)
+  - [DiscordBridge - Lightweight Plugin to link Discord to Minecraft chat](https://github.com/Leokayasen/DiscordBridge)
+  - [Deceit - A murder-mystery / social deduction gamemode & mod for Paper Minecraft](https://github.com/Leokayasen/Minecraft-Deceit)
+  - More Coming Soon
 
-- **Tools**\
-[![My Tools](https://skillicons.dev/icons?i=idea,androidstudio,replit,pycharm,vscode,mongodb,mysql,phpstorm&theme=dark)](https://skillicons.dev)
+- - -
 
-- **Languages**\
-[![My Skills](https://skillicons.dev/icons?i=py,java,md,lua,html,css,js,haskell,bash,ts,ruby&theme=dark)](https://skillicons.dev)
+## 🛠️ Tech & Tools
+Frontend: React, TypeScript  
+Backend: Node.js, Express, PostgreSQL, Prisma  
+DevOps: Docker, GitHub Actions, Gradle, Maven 
 
-- **Other Tools**\
-[![My Skills](https://skillicons.dev/icons?i=unity,robloxstudio,blender,godot,&theme=dark)](https://skillicons.dev)
+## 📁 FEATURED Projects
+- [Foodie](https://github.com/Leokayasen/appTest) — Android Food/Recipe App (Coursework for 
 
+---
 
 ## 📈 GitHub Stats
-![Leokayasen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leokayasen&show_icons=true&theme=radical)
+[![Leokayasen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leokayasen&show_icons=true&theme=radical)](https://github.com/Leokayasen/github-readme-stats)
 
-## 📫 How to Reach Me
-- **Bluesky**: [@leokayasen](https://bsky.app/profile/leokayasen.bsky.social)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leokayasen&layout=compact&theme=radical)](https://github.com/Leokayasen/github-readme-stats)
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- **Medium**: [My Profile](https://medium.com/@k.leopold)
-<!-- BLOG-POST-LIST:END -->
+(If you want these cards, enable the github-readme-stats integration by adding the images above to your README.)
+
+---
+
+## 📫 Contact
+- Email: bitwave-studios@proton.me
+
+---
+
+## ❤️ Interests
+Open source, developer experience, performance optimization, clean code, coffee (not really but you can buy me a Ko-Fi [here](https://ko-fi.com/bitwavestudios)
+
+---
+
+Thanks for visiting — feel free to reach out or explore my projects.
