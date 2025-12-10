@@ -14,7 +14,7 @@ I'm a Java and Web developer who builds reliable, maintainable, and user-friendl
 
 ## 🚀 Currently
 - Working on:
-  - [Foodie - Android Recipe App](https://github.com/Leokayasen/appTest)
+  - [Chefly - Android Recipe App](https://github.com/Leokayasen/appTest)
   - [StackSpace/Lattice - Developer-focused social platform](https://github.com/Leokayasen/Lattice)
   - [MineMap - Browser-based Dynamic World Map for Paper Minecraft](https://github.com/Leokayasen/MineMap)
   - [DiscordBridge - Lightweight Plugin to link Discord to Minecraft chat](https://github.com/Leokayasen/DiscordBridge)
@@ -29,7 +29,7 @@ Backend: Node.js, Express, PostgreSQL, Prisma
 DevOps: Docker, GitHub Actions, Gradle, Maven 
 
 ## 📁 FEATURED Projects
-- [Foodie](https://github.com/Leokayasen/appTest) — Android Food/Recipe App (Coursework for 
+- [Chefly](https://github.com/Leokayasen/appTest) — Android Food/Recipe App (Coursework for 
 
 ---
 
