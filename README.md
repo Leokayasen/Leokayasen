@@ -14,11 +14,9 @@ I'm a Java and Web developer who builds reliable, maintainable, and user-friendl
 
 ## 🚀 Currently
 - Working on:
-  - [Chefly - Android Recipe App](https://github.com/Leokayasen/appTest)
-  - [StackSpace/Lattice - Developer-focused social platform](https://github.com/Leokayasen/Lattice)
-  - [MineMap - Browser-based Dynamic World Map for Paper Minecraft](https://github.com/Leokayasen/MineMap)
-  - [DiscordBridge - Lightweight Plugin to link Discord to Minecraft chat](https://github.com/Leokayasen/DiscordBridge)
+  - [Chefly - Android Recipe App](https://github.com/Leokayasen/Chefly)
   - [Deceit - A murder-mystery / social deduction gamemode & mod for Paper Minecraft](https://github.com/Leokayasen/Minecraft-Deceit)
+  - [StackSpace/Lattice - Developer-focused social platform](https://github.com/Leokayasen/Lattice)
   - More Coming Soon
 
 - - -
@@ -29,16 +27,7 @@ Backend: Node.js, Express, PostgreSQL, Prisma
 DevOps: Docker, GitHub Actions, Gradle, Maven 
 
 ## 📁 FEATURED Projects
-- [Chefly](https://github.com/Leokayasen/appTest) — Android Food/Recipe App (Coursework for 
-
----
-
-## 📈 GitHub Stats
-[![Leokayasen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leokayasen&show_icons=true&theme=radical)](https://github.com/Leokayasen/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leokayasen&layout=compact&theme=radical)](https://github.com/Leokayasen/github-readme-stats)
-
-(If you want these cards, enable the github-readme-stats integration by adding the images above to your README.)
+- [Chefly](https://github.com/Leokayasen/Chefly) — Android Food/Recipe App (Coursework for 
 
 ---
 
