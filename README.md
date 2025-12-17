@@ -1,5 +1,12 @@
 # Hi, I'm Kai 👋
 
+> [!NOTE]
+> As of 16/12/2025 I am no longer active on GitHub except for pushing security patches to existing public repositories.\
+> For any of my new projects, visit my [Codeberg](https://codeberg.org/Leokayasen).
+>
+> This also applies to any and all projects I own or work on with my team, BitWave Studios.\
+> You can find the org page [here](https://codeberg.org/BitWave).
+
 I'm a Java and Web developer who builds reliable, maintainable, and user-friendly applications. I enjoy solving problems, learning new technologies, and contributing to open source.
 
 - - -
