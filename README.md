@@ -1,6 +1,9 @@
 # Hi, I'm Kai 👋
 
 > [!NOTE]
+> As of 02/02/2026, this account is only used to forward repositories from Codeberg to GitHub.\
+> This is because I now run several apps and sites via Vercel, which currently does not support Codeberg's Gitea/Forgejo framework.
+> 
 > As of 16/12/2025 I am no longer active on GitHub except for pushing security patches to existing public repositories.\
 > For any of my new projects, visit my [Codeberg](https://codeberg.org/Leokayasen).
 >
