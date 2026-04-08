@@ -1,14 +1,8 @@
 # Hi, I'm Kai 👋
 
 > [!NOTE]
-> As of 02/02/2026, this account is only used to forward repositories from Codeberg to GitHub.\
-> This is because I now run several apps and sites via Vercel, which currently does not support Codeberg's Gitea/Forgejo framework.
-> 
-> As of 16/12/2025 I am no longer active on GitHub except for pushing security patches to existing public repositories.\
-> For any of my new projects, visit my [Codeberg](https://codeberg.org/Leokayasen).
->
-> This also applies to any and all projects I own or work on with my team, BitWave Studios.\
-> You can find the org page [here](https://codeberg.org/BitWave).
+> I am no longer active on GitHub except for pushing security patches to existing public repositories or releasing the occasional utility for existing projects.\
+> For any of my new projects, visit my [Codeberg profile](https://codeberg.org/Leokayasen) or my [org](https://codeberg.org/BitWave).
 
 I'm a Java and Web developer who builds reliable, maintainable, and user-friendly applications. I enjoy solving problems, learning new technologies, and contributing to open source.
 
@@ -23,11 +17,7 @@ I'm a Java and Web developer who builds reliable, maintainable, and user-friendl
 - - -
 
 ## 🚀 Currently
-- Working on:
-  - [Chefly - Android Recipe App](https://github.com/Leokayasen/Chefly)
-  - [Deceit - A murder-mystery / social deduction gamemode & mod for Paper Minecraft](https://github.com/Leokayasen/Minecraft-Deceit)
-  - [StackSpace/Lattice - Developer-focused social platform](https://github.com/Leokayasen/Lattice)
-  - More Coming Soon
+- Most of my work is now transferred over to [Codeberg](https://codeberg.org/Leokayasen) - the most up-to-date versions are there, so check it out!
 
 - - -
 
@@ -35,9 +25,6 @@ I'm a Java and Web developer who builds reliable, maintainable, and user-friendl
 Frontend: React, TypeScript  
 Backend: Node.js, Express, PostgreSQL, Prisma  
 DevOps: Docker, GitHub Actions, Gradle, Maven 
-
-## 📁 FEATURED Projects
-- [Chefly](https://github.com/Leokayasen/Chefly) — Android Food/Recipe App (Coursework for 
 
 ---
 
